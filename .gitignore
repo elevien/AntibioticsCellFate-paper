@@ -1,0 +1,4 @@
+figures/
+.CondaPkg/
+.DS_Store
+.ipynb_checkpoints/
